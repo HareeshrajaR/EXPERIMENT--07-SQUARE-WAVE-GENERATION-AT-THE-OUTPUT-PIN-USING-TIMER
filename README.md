@@ -231,8 +231,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ## FOR PULSE AT 50%
-![exp 06 01](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/09332eba-93dd-4a55-8ed8-bd1f6ad07cd7)
-
+![Screenshot 2024-04-23 135529](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/7ed4f718-51c9-4723-80d9-84575838bab5)
 
 
 ##### TON = 
@@ -244,7 +243,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ##### FREQUENCY = 1/(TOTAL TIME)
 
 ## FOR PULSE AT 70%
-![exp 6 02](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/b9550a88-f93e-46d6-9c05-b9151d964caf)
+![Screenshot 2024-04-23 140523](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/323341da-6374-4a8e-844b-fdb4dedac599)
 
 
 ##### TON = 
@@ -257,7 +256,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## FOR PULSE AT 90%
-![exp 06 3](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/8418a253-782e-46e1-94c7-0af68fb41f04)
+![Screenshot 2024-04-23 140851](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/f7f798a2-1419-4e16-9f49-08bbab092a82)
+
 
 
 ##### TON = 
