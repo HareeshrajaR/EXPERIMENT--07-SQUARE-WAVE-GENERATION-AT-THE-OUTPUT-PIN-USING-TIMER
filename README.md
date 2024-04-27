@@ -227,25 +227,25 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![Screenshot 2024-04-23 135529](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/7ed4f718-51c9-4723-80d9-84575838bab5)
 
 
-##### TON = 
+##### TON = 0.6ms
 
-##### TOFF=
+##### TOFF= 0.6ms
 
-##### TOTAL TIME = 
+##### TOTAL TIME = 1.2ms
 
-##### FREQUENCY = 1/(TOTAL TIME)
+##### FREQUENCY = 1/(1.2) = 0.83 Hz
 
 ## FOR PULSE AT 70%
 ![Screenshot 2024-04-23 140523](https://github.com/HareeshrajaR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870459/323341da-6374-4a8e-844b-fdb4dedac599)
 
 
-##### TON = 
+##### TON = 0.84ms
 
-##### TOFF=
+##### TOFF= 0.38 ms
 
-##### TOTAL TIME = 
+##### TOTAL TIME = 1.22 ms
 
-##### FREQUENCY = 1/(TOTAL TIME)
+##### FREQUENCY = 1/(1.22) = 0.819 Hz
 
 
 ## FOR PULSE AT 90%
@@ -253,13 +253,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-##### TON = 
+##### TON = 1.12 ms
+  
+##### TOFF= 0.14 ms
 
-##### TOFF=
+##### TOTAL TIME = 1.26 ms
 
-##### TOTAL TIME = 
-
-##### FREQUENCY = 1/(TOTAL TIME)
+##### FREQUENCY = 1/(1.26) = 0.793 Hz
 
 
 
